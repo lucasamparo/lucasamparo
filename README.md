@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Computer Vision, Artificial Intelligence and Robotics Researcher.
+Professor.
+
+#### Relevant Works on GitHub
+* [EasyCad - Gestão de Eventos](https://github.com/lucasamparo/easycad)
+
+[Research Page](https://lucasamparo.github.io)
+
 <!--
 **lucasamparo/lucasamparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
