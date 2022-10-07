@@ -6,7 +6,9 @@ Professor.
 #### Relevant Works on GitHub
 * [EasyCad - Gestão de Eventos](https://github.com/lucasamparo/easycad)
 
-[Research Page](https://lucasamparo.github.io)
+#### Relevant Academic works ([Research Page](https://lucasamparo.github.io))
+* [Expression Removal in 3D Faces for Recognition Purposes](https://ieeexplore.ieee.org/document/8923954)
+* [Fully automatic 3D reconstruction applied to underwater flexible joint inspection](https://ieeexplore.ieee.org/document/9705736)
 
 <!--
 **lucasamparo/lucasamparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
